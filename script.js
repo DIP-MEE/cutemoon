@@ -1,6 +1,6 @@
 (async function checkForUpdates() {
     const currentVersion = "1.0";
-    const versionUrl = "https://raw.githubusercontent.com/dip-mee/cutemoon.github.io/main/version.json"; 
+    const versionUrl = "https://raw.githubusercontent.com/ivysone/Will-you-be-my-Valentine-/main/version.json"; 
 
     try {
         const response = await fetch(versionUrl);
@@ -56,14 +56,30 @@
 const messages = [
     "Are you sure?",
     "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
+    "Lock kar diya jaye?",
+    "Baby please...",
+    "Acha ektu bhebe ne!",
+    "Haggu 💩",
+    "Pyaar toh ek tarfa hi tha...",
+    "Erom koris na 😥",
     "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+	"See the YES button now, that's how much I love you",
+	"Dont delieve me, keep clicking NO",
+    "Just kidding, say yes please! ❤️",
+	"Are you sure?",
+    "Really really sure??",
+	"We've been over this",
+	"For once atleast listen to me Miss Neha Ganuly 😒",
+	"Click the Yes button now before it outgrows your height",
+	"How big is too big?? Let's find out",
+	"How big is too big?? Let's find out",
+	"How big is too big?? Let's find out",
+	"How big is too big?? Let's find out",
+	"How big is too big?? Let's find out",
+	"Arrey bhai ebar toh YES bol 🥱",
+	"Bas kar pagli"
+	
+	
 ];
 
 let messageIndex = 0;
