@@ -63,8 +63,9 @@ const messages = [
     "Pyaar toh ek tarfa hi tha...",
     "Erom koris na 😥",
     "Ok fine, I will stop asking...",
+	"Ghonu amar kotha shon, click YES"
 	"See the YES button now, that's how much I love you",
-	"Dont delieve me, keep clicking NO",
+	"Dont believe me, keep clicking NO",
     "Just kidding, say yes please! ❤️",
 	"Are you sure?",
     "Really really sure??",
